@@ -21,7 +21,7 @@ Pre-requisites
 - Lists
 - App architecture
 
-Getting Started
+To run the project
 ---------------
 
 1. Download the project
